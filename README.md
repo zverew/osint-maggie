@@ -51,9 +51,8 @@ python maggie.py <email|ip|username>
     python maggie.py johndoe
     ```
 
-## 📊 Output
+#Update v1.1 soon... Bugfix? Or something new? 
 
-The script outputs all gathered intelligence in a structured **JSON** format, making it easy to pipe into other tools. It also displays a dedicated list of **Google Dorks** ready for manual search.
 
 ## ⚠️ Disclaimer
 
