@@ -1,8 +1,7 @@
 # osint-maggie
 this is my first project :) i'd update it  soon.
 # Maggie
-
-Keyless OSINT tool – email breaches, DNS, WHOIS, IP geolocation, social scraping, and Google dorks. No API keys required.
+OSINT tool – email breaches, DNS, WHOIS, IP geolocation, social scraping, and Google dorks. No API keys required.
 
 ## Installation
 
