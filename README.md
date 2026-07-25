@@ -21,16 +21,12 @@ The tool dynamically adapts its scanning logic based on your target:
 
 ## 🚀 Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com
-   cd maggie
-   ```
-
-2. Install the required dependencies:
+1. Install the required dependencies:
    ```bash
    pip install requests dnspython python-whois
    ```
+
+2. Download [Maggie Tool](MaggieTool.py) 
 
 ## 🛠 Usage
 
