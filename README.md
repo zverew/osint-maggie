@@ -26,7 +26,7 @@ The tool dynamically adapts its scanning logic based on your target:
    pip install requests dnspython python-whois
    ```
 
-2. Download [Maggie Tool](https://githubusercontent.com/zverew/osint-maggie/refs/heads/main/MaggieTool.py) 
+2. Download [Maggie Tool](https://github.com/user-attachments/files/30375613/MaggieTool.py) 
 
 ## 🛠 Usage
 
